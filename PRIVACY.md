@@ -1,0 +1,31 @@
+# Word check privacy policy
+
+Effective date: October 23, 2026
+
+Word check is developed by Raunak Daga. This policy describes the Word check iOS app.
+
+## Data collection
+
+The app does not collect, transmit, sell, or share personal data. It contains no advertising, tracking, third-party analytics, account system, or in-app purchases.
+
+## Words and preferences
+
+Word checks take place entirely on your device using bundled dictionaries. Entered words are not sent to a server or saved as a lookup history. The current word remains in memory while you use the app.
+
+Your selected dictionary is saved locally in the app's preferences. It is used only to restore your selection. You can remove these preferences by deleting the app.
+
+## Permissions and services
+
+The app does not request access to contacts, photos, location, microphone, or camera. Any keyboard dictation is provided and controlled by iOS, not recorded by Word check. Apple's device diagnostics, backups, and App Store services are governed by Apple's settings and policies.
+
+## External links and support
+
+Opening the support link launches your browser. Our support documents and issue tracker are hosted on GitHub, whose own privacy policy applies when you visit. If you choose to submit a support issue, the information you include is public and is used to respond to the request. Please do not include sensitive information.
+
+## Children
+
+The app does not collect personal data from anyone, including children. It is a general word reference app and is not specifically directed to children.
+
+## Changes and contact
+
+Any changes to this policy will be published here with an updated effective date. For privacy questions, contact Raunak Daga through [Word check support](https://github.com/rau/word-check-support/issues/new).
