@@ -29,3 +29,7 @@ The app does not collect personal data from anyone, including children. It is a 
 ## Changes and contact
 
 Any changes to this policy will be published here with an updated effective date. For privacy questions, contact Raunak Daga through [Word check support](https://github.com/rau/word-check-support/issues/new).
+
+## Local game tracking
+
+Player names, board tiles, scores, and turn history are stored locally on your device to resume your game. They are not sent to us. Starting a new game replaces the previous game; deleting the app removes its local data. Apple device backups may retain app data according to your settings.
