@@ -26,7 +26,7 @@ Developed by Raunak Daga. This repository contains support documents only.
 
 ## Track a game
 
-In Game, choose 2–4 players and a dictionary. Tap a starting square, choose Across or Down, and enter the complete word, including existing letters. Tap a letter below the field to mark a new tile as a blank. Review the word scores and tap Play.
+In Game, choose 2–4 players and a dictionary. You can switch NASPA/Collins at the top during a game; the draft is rechecked immediately, and completed scores remain unchanged. Each played turn records its dictionary in History. Tap a starting square, choose Across or Down, and enter the complete word, including existing letters. Tap a letter below the field to mark a new tile as a blank. Review the word scores and tap Play.
 
 Pinch to zoom, drag to pan, double-tap to zoom or fit, or use the fit and magnifier buttons. Game actions includes Pass, Exchange, Undo, History, and Finish. At the end, enter remaining rack letters (use ? for blanks) and select the player who went out, if any, for final scoring.
 
