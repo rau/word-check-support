@@ -26,10 +26,14 @@ Developed by Raunak Daga. This repository contains support documents only.
 
 ## Track a game
 
-In Game, choose 2–4 players and a dictionary. You can switch NASPA/Collins at the top during a game; the draft is rechecked immediately, and completed scores remain unchanged. Each played turn records its dictionary in History. Tap a starting square, choose Across or Down, and enter the complete word, including existing letters. Tap a letter below the field to mark a new tile as a blank. Review the word scores and tap Play.
+Choose 2–4 players and NASPA or Collins. Tap a starting square and type only your new tiles. Existing board letters are included automatically; backspace removes draft tiles without changing the board. Type ? for each blank and choose its letter when you press Play. Blanks show uppercase letters and a yellow zero badge.
 
-Pinch to zoom, drag to pan, double-tap to zoom or fit. VoiceOver also offers zoom and fit actions. Game actions includes Pass, Exchange, Undo, History, and Finish. At the end, enter remaining rack letters (use ? for blanks) and select the player who went out, if any, for final scoring.
+Pinch to zoom and drag to pan. Double-tap the selected square to switch Across/Down. The selected row or column is highlighted. VoiceOver also offers zoom and fit actions. The current player’s score card has a strong green fill.
 
-Uses the standard 15 × 15 English board, letter values, premium positions, and 50-point seven-tile bonus. Checks every formed word and board connectivity. Physical tile racks, bag availability, and player ownership of tiles are managed at the table. An exchange requires at least 7 tiles in the bag.
+The tracker does not reveal dictionary validity while you play. On the next player’s turn, Challenge last play checks every formed word using the dictionary recorded with that play. A successful challenge reverses its new tiles and points and leaves the challenger’s turn available. An unsuccessful challenge forfeits that turn. History retains both the original play and the outcome; Undo reverses either.
+
+Switch dictionaries at the top at any time. Game actions also includes FAQ, Pass, Exchange, Undo, History, and Finish. At the end, enter remaining rack letters (use ? for unplayed blanks) and select the player who went out, if any.
+
+Uses the standard 15 × 15 English board, letter values, premium positions, and 50-point seven-tile bonus. Physical tile racks and bag availability are managed at the table. An exchange requires at least 7 tiles in the bag.
 
 The current game saves automatically on this device. Starting a new game replaces it.
